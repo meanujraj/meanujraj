@@ -7,7 +7,7 @@ I'm a Computer Science graduate passionate about building backend systems, REST 
 - 🔭 Working on backend development and software projects
 - 🌱 Exploring Machine Learning and data-driven applications
 - 💻 Interested in API development, databases, cloud technologies, and scalable applications
-- 📫 Reach me at **[anujraj1604@gmail.com](mailto:anujraj1604@gmail.com)**
+- 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/meanujraj)**
 - 🐙 GitHub: [@meanujraj](https://github.com/meanujraj)
 
 ---
